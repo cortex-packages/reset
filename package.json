@@ -1,0 +1,19 @@
+{
+  "name": "reset",
+  "version": "0.1.0",
+  "description": "The coolest cortex module.",
+  "main": "index.js",
+  "repository": "git://github.com/cortexjs/reset.git",
+  "keywords": [
+    "reset"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "supersheep",
+    "email": "supersheepxjy@gmail.com"
+  },
+  "bugs": {
+    "url": "http://github.com/cortexjs/reset/issues"
+  },
+  "homepage": "http://github.com/cortexjs/reset"
+}

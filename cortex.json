@@ -1,0 +1,18 @@
+{
+  "name": "reset",
+  "version": "0.1.0",
+  "description": "Eric Meyer’s “Reset CSS” 2.0",
+  "css": "reset.css",
+  "repository": "git://github.com/cortexjs/reset.git",
+  "keywords": [
+    "reset"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "http://github.com/cortexjs/reset/issues"
+  },
+  "homepage": "http://github.com/cortexjs/reset",
+  "devDependencies": {
+    "assert": "*"
+  }
+}
